@@ -59,7 +59,7 @@ Também estou expandindo meus conhecimentos em **Inteligência Artificial aplica
 
 Sistema Full Stack desenvolvido para gerenciar o processo de arranchamento de uma Organização Militar.
 
-O projeto contempla diferentes níveis de acesso e funcionalidades específicas para cada perfil de usuário, com frontend, API e banco de dados integrados.
+O projeto contempla diferentes níveis de acesso e funcionalidades específicas para cada perfil de usuário, integrando **frontend, API e banco de dados**.
 
 **Principais recursos:**
 
@@ -76,6 +76,8 @@ O projeto contempla diferentes níveis de acesso e funcionalidades específicas 
 `React` `TypeScript` `Node.js` `Express` `MySQL` `Prisma`
 
 **Status:** 🚧 Em desenvolvimento
+
+[🔗 Ver projeto no GitHub](https://github.com/eduardoornos/sistema-arranchamento)
 
 ---
 
