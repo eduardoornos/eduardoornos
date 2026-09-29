@@ -83,9 +83,17 @@ O projeto contempla diferentes níveis de acesso e funcionalidades específicas 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavenShild&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=RavenShild&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Estatísticas do GitHub de Eduardo Ornos"
+  />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavenShild&layout=compact&theme=github_dark&hide_border=true"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavenShild&layout=compact&theme=github_dark&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
 
 </div>
 
